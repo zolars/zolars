@@ -1,4 +1,4 @@
-💁🏻 My Chinese name is 辛逸飞. You can call me Yifei please.
+💁🏻 My Chinese name is 辛逸飞. You can call me **Yifei** please.
 
 👨🏻‍🎓 2020 June, I received my B.Sc. with **Honors, First Class** in Telecommunications Engineering from Queen Mary University of London and B.Sc. in Telecommunications Engineering from Beijing University of Posts and Telecommunications.
 
