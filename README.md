@@ -6,6 +6,6 @@
 
 🙌🏻 Following this, from 2021 to 2022, I pursued and completed a Master of Science in Advanced Software Engineering at King's College London, graduating with Distinction. Advised by Dr. Helen Yannakoudakis, my Master's work centered on Modeling Task Relationships in Multi-Task Learning for Sequence Labeling. This focus on sequence prediction was motivated by its critical role in intelligent games, as predicting action sequences—a key challenge in my prior Reinforcement Learning research for strategy games—is essential for modeling agent behavior.
 
-📡 Currently, I have returned to the Institute of Software, Chinese Academy of Sciences as a Researcher. Mentored by Prof. Rui Wang, this position provides me with valuable opportunities to engage with a wide range of topics in the Computer Science and Engineering fields. It allows me to further develop my research skills, particularly in reinforcement learning, AI games, data mining, and interdisciplinary areas.
+📡 Currently, I have returned to the Institute of Software, Chinese Academy of Sciences as a Researcher. Mentored by Prof. Rui Wang, this position provides me with valuable opportunities to further develop my research skills, particularly in the direction of AI-empowered simulation and intelligent gaming.
 
 💼 My long-term career aspiration is to address challenging social problems by developing reliable software systems powered by advanced computing technologies.
